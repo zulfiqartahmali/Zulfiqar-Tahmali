@@ -1,0 +1,6 @@
+Movie Title : Train To Busan - Peninsula
+Duration : 2 Hours
+Buyer Username : test
+Price Per Unit : RM16
+Total : RM32.0
+Date/Time : 2020/08/02 00:42:31
